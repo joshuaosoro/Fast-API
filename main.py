@@ -3,7 +3,7 @@ from pydantic import BaseModel
 from typing import Optional, List
 
 app = FastAPI(
-    title="Fast API LMS",
+    title="Fast API",
     description="LMS for managing students and courses.",
     version="0.0.1",
     contact={
